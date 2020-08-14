@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 I'm Pritham, a 20 year old Computer Science student currently studying at SSN College of Engineering.
 
