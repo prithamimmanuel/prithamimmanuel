@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm Pritham, a 20 year old Computer Science student currently studying at SSN College of Engineering, Chennai. I'm pursuing a Bachelor's degree in Computer Science and Engineering. I enjoy creating simple solutions to daily problems with computer science tools. I enjoy coding mainly in Python, but I also code in C++, Shell and Java. 
+I'm Pritham, a 20 year old Computer Science student currently studying at SSN College of Engineering, Chennai. I'm pursuing a Bachelor's degree in Computer Science and Engineering. I enjoy creating simple solutions to daily problems with computer science tools. I enjoy coding mainly in Python, but I also code in JavaScript, C++, Shell and Java. 
 
 <!--
 **prithamimmanuel/prithamimmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
